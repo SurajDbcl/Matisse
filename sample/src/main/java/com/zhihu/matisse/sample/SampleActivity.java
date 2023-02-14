@@ -44,7 +44,7 @@ import java.util.List;
 
 public class SampleActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private static final int REQUEST_CODE_CHOOSE = 23;
+    private static final int REQUEST_CODE_CHOOSE = 24;
 
     private UriAdapter mAdapter;
 
